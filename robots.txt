@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /?s=
+Disallow: /?
+Disallow: /search/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://foodhandlersolutions.com/sitemap_index.xml
